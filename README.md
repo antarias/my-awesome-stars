@@ -6,15 +6,25 @@
 ## Contents
 
 - [C](#c)
+- [Perl](#perl)
 - [PowerShell](#powershell)
+- [Python](#python)
 
 ## C 
 
 - [chernandezba/zesarux](https://github.com/chernandezba/zesarux) - ZEsarUX - ZX Second-Emulator And Released for UniX
 
+## Perl 
+
+- [fboaventura/dckr-mrtg](https://github.com/fboaventura/dckr-mrtg) - :whale: Docker MRTG Instance that will configure monitoring from the environment variable.
+
 ## PowerShell 
 
 - [zxdb/ZXDB](https://github.com/zxdb/ZXDB) - Open database with historical information about Sinclair machines
+
+## Python 
+
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 
 ## License
