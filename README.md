@@ -6,13 +6,20 @@
 ## Contents
 
 - [C](#c)
+- [Others](#others)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Shell](#shell)
+- [TypeScript](#typescript)
 
 ## C 
 
 - [chernandezba/zesarux](https://github.com/chernandezba/zesarux) - ZEsarUX - ZX Second-Emulator And Released for UniX
+
+## Others 
+
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
 ## Perl 
 
@@ -24,7 +31,18 @@
 
 ## Python 
 
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+
+## Shell 
+
+- [IamTheFij/docker-pre-commit](https://github.com/IamTheFij/docker-pre-commit) - Pre-Commit hooks for validating Docker projects (Mirror)
+- [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
+
+## TypeScript 
+
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 
 ## License
