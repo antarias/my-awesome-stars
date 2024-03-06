@@ -6,6 +6,7 @@
 ## Contents
 
 - [C](#c)
+- [Dockerfile](#dockerfile)
 - [Others](#others)
 - [Perl](#perl)
 - [PowerShell](#powershell)
@@ -15,8 +16,13 @@
 
 ## C 
 
+- [Stonyx/QNAP-EC](https://github.com/Stonyx/QNAP-EC) - 
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [chernandezba/zesarux](https://github.com/chernandezba/zesarux) - ZEsarUX - ZX Second-Emulator And Released for UniX
+
+## Dockerfile 
+
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
 
 ## Others 
 
@@ -37,6 +43,7 @@
 
 ## Shell 
 
+- [bashclub/zamba-lxc-toolbox](https://github.com/bashclub/zamba-lxc-toolbox) - Zamba LXC Toolbox a script collection to setup LXC containers on Proxmox + ZFS. Zamba is the fusion of ZFS and Samba (standalone, active directory dc or active directory member), preconfigured to acce
 - [IamTheFij/docker-pre-commit](https://github.com/IamTheFij/docker-pre-commit) - Pre-Commit hooks for validating Docker projects (Mirror)
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
