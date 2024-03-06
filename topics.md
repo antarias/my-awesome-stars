@@ -36,6 +36,7 @@
 
 ## docker 
 
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
 - [fboaventura/dckr-mrtg](https://github.com/fboaventura/dckr-mrtg) - :whale: Docker MRTG Instance that will configure monitoring from the environment variable.
 
 ## emulator 
@@ -52,6 +53,8 @@
 
 ## others 
 
+- [bashclub/zamba-lxc-toolbox](https://github.com/bashclub/zamba-lxc-toolbox) - Zamba LXC Toolbox a script collection to setup LXC containers on Proxmox + ZFS. Zamba is the fusion of ZFS and Samba (standalone, active directory dc or active directory member), preconfigured to acce
+- [Stonyx/QNAP-EC](https://github.com/Stonyx/QNAP-EC) - 
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [IamTheFij/docker-pre-commit](https://github.com/IamTheFij/docker-pre-commit) - Pre-Commit hooks for validating Docker projects (Mirror)
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
