@@ -13,8 +13,10 @@
 - [emulator](#emulator)
 - [git](#git)
 - [hacktoberfest](#hacktoberfest)
+- [open-source](#open-source)
 - [others](#others)
 - [python](#python)
+- [self-hosted](#self-hosted)
 
 ## algorithm 
 
@@ -51,6 +53,10 @@
 
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
 
+## open-source 
+
+- [zurdi15/romm](https://github.com/zurdi15/romm) - A beautiful, powerful, self-hosted rom manager
+
 ## others 
 
 - [chomupashchuk/ariston-remotethermo-home-assistant-v2](https://github.com/chomupashchuk/ariston-remotethermo-home-assistant-v2) - Ariston NET remotethermo integration for Home Assistant based on API
@@ -64,6 +70,10 @@
 ## python 
 
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+
+## self-hosted 
+
+- [zurdi15/romm](https://github.com/zurdi15/romm) - A beautiful, powerful, self-hosted rom manager
 
 
 ## License
