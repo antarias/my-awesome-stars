@@ -13,6 +13,7 @@
 - [emulator](#emulator)
 - [git](#git)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [open-source](#open-source)
 - [others](#others)
 - [python](#python)
@@ -52,6 +53,10 @@
 ## hacktoberfest 
 
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
+
+## home-assistant 
+
+- [uvejota/homeassistant-edata](https://github.com/uvejota/homeassistant-edata) - Home Assistant integration for spanish energy data providers (e.g., datadis)
 
 ## open-source 
 
