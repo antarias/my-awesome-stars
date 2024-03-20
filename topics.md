@@ -60,7 +60,7 @@
 
 ## open-source 
 
-- [zurdi15/romm](https://github.com/zurdi15/romm) - A beautiful, powerful, self-hosted rom manager
+- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
 
 ## others 
 
@@ -78,7 +78,7 @@
 
 ## self-hosted 
 
-- [zurdi15/romm](https://github.com/zurdi15/romm) - A beautiful, powerful, self-hosted rom manager
+- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
 
 
 ## License
