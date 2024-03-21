@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [Dockerfile](#dockerfile)
+- [JavaScript](#javascript)
 - [Others](#others)
 - [Perl](#perl)
 - [PowerShell](#powershell)
@@ -23,6 +24,10 @@
 ## Dockerfile 
 
 - [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
+
+## JavaScript 
+
+- [pablokbs/peladonerd](https://github.com/pablokbs/peladonerd) - Repo con los archivos que uso para mi videos en youtube
 
 ## Others 
 
