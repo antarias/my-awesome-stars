@@ -9,6 +9,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [chrome](#chrome)
+- [computer-science](#computer-science)
 - [docker](#docker)
 - [emulator](#emulator)
 - [git](#git)
@@ -36,6 +37,10 @@
 ## chrome 
 
 - [chernandezba/zesarux](https://github.com/chernandezba/zesarux) - ZEsarUX - ZX Second-Emulator And Released for UniX
+
+## computer-science 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## docker 
 
@@ -75,6 +80,7 @@
 
 ## python 
 
+- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
 ## self-hosted 
