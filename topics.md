@@ -69,6 +69,7 @@
 
 ## others 
 
+- [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
 - [pablokbs/peladonerd](https://github.com/pablokbs/peladonerd) - Repo con los archivos que uso para mi videos en youtube
 - [chomupashchuk/ariston-remotethermo-home-assistant-v2](https://github.com/chomupashchuk/ariston-remotethermo-home-assistant-v2) - Ariston NET remotethermo integration for Home Assistant based on API
 - [bashclub/zamba-lxc-toolbox](https://github.com/bashclub/zamba-lxc-toolbox) - Zamba LXC Toolbox a script collection to setup LXC containers on Proxmox + ZFS. Zamba is the fusion of ZFS and Samba (standalone, active directory dc or active directory member), preconfigured to acce
