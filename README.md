@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [Dockerfile](#dockerfile)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Others](#others)
 - [Perl](#perl)
@@ -24,6 +25,10 @@
 ## Dockerfile 
 
 - [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
+
+## Java 
+
+- [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
 
 ## JavaScript 
 
