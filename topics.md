@@ -15,6 +15,8 @@
 - [git](#git)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
+- [linux](#linux)
+- [macos](#macos)
 - [open-source](#open-source)
 - [others](#others)
 - [python](#python)
@@ -57,11 +59,20 @@
 
 ## hacktoberfest 
 
+- [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
 
 ## home-assistant 
 
 - [uvejota/homeassistant-edata](https://github.com/uvejota/homeassistant-edata) - Home Assistant integration for spanish energy data providers (e.g., datadis)
+
+## linux 
+
+- [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
+
+## macos 
+
+- [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 
 ## open-source 
 
@@ -69,6 +80,7 @@
 
 ## others 
 
+- [antarias/cura-profiles-elegoo-neptune](https://github.com/antarias/cura-profiles-elegoo-neptune) - Elegoo Neptune, Neptune 2 and Saturn profiles for Cura
 - [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
 - [pablokbs/peladonerd](https://github.com/pablokbs/peladonerd) - Repo con los archivos que uso para mi videos en youtube
 - [chomupashchuk/ariston-remotethermo-home-assistant-v2](https://github.com/chomupashchuk/ariston-remotethermo-home-assistant-v2) - Ariston NET remotethermo integration for Home Assistant based on API
