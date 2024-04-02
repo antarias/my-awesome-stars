@@ -36,6 +36,7 @@
 
 ## Others 
 
+- [antarias/cura-profiles-elegoo-neptune](https://github.com/antarias/cura-profiles-elegoo-neptune) - Elegoo Neptune, Neptune 2 and Saturn profiles for Cura
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
 ## Perl 
@@ -57,6 +58,7 @@
 
 ## Shell 
 
+- [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [bashclub/zamba-lxc-toolbox](https://github.com/bashclub/zamba-lxc-toolbox) - Zamba LXC Toolbox a script collection to setup LXC containers on Proxmox + ZFS. Zamba is the fusion of ZFS and Samba (standalone, active directory dc or active directory member), preconfigured to acce
 - [IamTheFij/docker-pre-commit](https://github.com/IamTheFij/docker-pre-commit) - Pre-Commit hooks for validating Docker projects (Mirror)
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
