@@ -21,6 +21,7 @@
 - [others](#others)
 - [python](#python)
 - [self-hosted](#self-hosted)
+- [server](#server)
 
 ## algorithm 
 
@@ -99,6 +100,10 @@
 ## self-hosted 
 
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
+
+## server 
+
+- [OliTechFR/Discovarr](https://github.com/OliTechFR/Discovarr) - A list of all the *arr apps that are out there in the world, like Sonarr, Radarr, etc.
 
 
 ## License
