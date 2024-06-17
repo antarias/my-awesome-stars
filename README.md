@@ -36,6 +36,7 @@
 
 ## Others 
 
+- [OliTechFR/Discovarr](https://github.com/OliTechFR/Discovarr) - A list of all the *arr apps that are out there in the world, like Sonarr, Radarr, etc.
 - [antarias/cura-profiles-elegoo-neptune](https://github.com/antarias/cura-profiles-elegoo-neptune) - Elegoo Neptune, Neptune 2 and Saturn profiles for Cura
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
