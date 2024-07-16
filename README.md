@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [Dockerfile](#dockerfile)
+- [HCL](#hcl)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Others](#others)
@@ -25,6 +26,10 @@
 ## Dockerfile 
 
 - [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
+
+## HCL 
+
+- [jleonelion/kh-infra-w-tf](https://github.com/jleonelion/kh-infra-w-tf) - Repository for exercises in KnowledgeHut's Infrastructure with Terraform course
 
 ## Java 
 
