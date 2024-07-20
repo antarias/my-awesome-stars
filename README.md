@@ -55,6 +55,7 @@
 
 ## Python 
 
+- [jmichault/gramps-kromprogramoj](https://github.com/jmichault/gramps-kromprogramoj) - kromprogramoj por gramps (addons for gramps)
 - [Andre0512/hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 28 languages.
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [uvejota/homeassistant-edata](https://github.com/uvejota/homeassistant-edata) - Home Assistant integration for spanish energy data providers (e.g., datadis)
