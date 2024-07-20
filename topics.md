@@ -82,6 +82,7 @@
 
 ## others 
 
+- [jmichault/gramps-kromprogramoj](https://github.com/jmichault/gramps-kromprogramoj) - kromprogramoj por gramps (addons for gramps)
 - [jleonelion/kh-infra-w-tf](https://github.com/jleonelion/kh-infra-w-tf) - Repository for exercises in KnowledgeHut's Infrastructure with Terraform course
 - [antarias/cura-profiles-elegoo-neptune](https://github.com/antarias/cura-profiles-elegoo-neptune) - Elegoo Neptune, Neptune 2 and Saturn profiles for Cura
 - [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
