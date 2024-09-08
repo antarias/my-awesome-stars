@@ -33,6 +33,7 @@
 
 ## Java 
 
+- [savinderpuri/knowledgehut](https://github.com/savinderpuri/knowledgehut) - Repo for KnowledgeHut courses
 - [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
 
 ## JavaScript 
