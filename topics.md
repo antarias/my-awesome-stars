@@ -82,6 +82,7 @@
 
 ## others 
 
+- [chris2511/xca](https://github.com/chris2511/xca) - X Certificate and Key management
 - [savinderpuri/knowledgehut](https://github.com/savinderpuri/knowledgehut) - Repo for KnowledgeHut courses
 - [jmichault/gramps-kromprogramoj](https://github.com/jmichault/gramps-kromprogramoj) - kromprogramoj por gramps (addons for gramps)
 - [jleonelion/kh-infra-w-tf](https://github.com/jleonelion/kh-infra-w-tf) - Repository for exercises in KnowledgeHut's Infrastructure with Terraform course
