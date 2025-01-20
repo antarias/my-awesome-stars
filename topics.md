@@ -13,8 +13,11 @@
 - [docker](#docker)
 - [emulator](#emulator)
 - [git](#git)
+- [go](#go)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
+- [java](#java)
+- [kubernetes](#kubernetes)
 - [linux](#linux)
 - [macos](#macos)
 - [open-source](#open-source)
@@ -58,15 +61,27 @@
 
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
+## go 
+
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+
 ## hacktoberfest 
 
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
-- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 
 ## home-assistant 
 
 - [Andre0512/hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 28 languages.
 - [uvejota/homeassistant-edata](https://github.com/uvejota/homeassistant-edata) - Home Assistant integration for spanish energy data providers (e.g., datadis)
+
+## java 
+
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
+
+## kubernetes 
+
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 
 ## linux 
 
