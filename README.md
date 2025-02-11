@@ -77,6 +77,7 @@
 
 ## Shell 
 
+- [ServerContainers/samba](https://github.com/ServerContainers/samba) - samba - (ghcr.io/servercontainers/samba) (+ optional zeroconf, wsdd2 & time machine) on alpine [x86 + arm]
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [bashclub/zamba-lxc-toolbox](https://github.com/bashclub/zamba-lxc-toolbox) - Zamba LXC Toolbox a script collection to setup LXC containers on Proxmox + ZFS. Zamba is the fusion of ZFS and Samba (standalone, active directory dc or active directory member), preconfigured to acce
 - [IamTheFij/docker-pre-commit](https://github.com/IamTheFij/docker-pre-commit) - Pre-Commit hooks for validating Docker projects (Mirror)
