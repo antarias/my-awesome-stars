@@ -50,6 +50,7 @@
 
 ## docker 
 
+- [ServerContainers/samba](https://github.com/ServerContainers/samba) - samba - (ghcr.io/servercontainers/samba) (+ optional zeroconf, wsdd2 & time machine) on alpine [x86 + arm]
 - [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
 - [fboaventura/dckr-mrtg](https://github.com/fboaventura/dckr-mrtg) - :whale: Docker MRTG Instance that will configure monitoring from the environment variable.
 
