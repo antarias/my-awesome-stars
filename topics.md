@@ -20,6 +20,7 @@
 - [kubernetes](#kubernetes)
 - [linux](#linux)
 - [macos](#macos)
+- [nextjs](#nextjs)
 - [open-source](#open-source)
 - [others](#others)
 - [python](#python)
@@ -91,6 +92,10 @@
 ## macos 
 
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
+
+## nextjs 
+
+- [Brandawg93/PeaNUT](https://github.com/Brandawg93/PeaNUT) - A tiny dashboard for Network UPS Tools
 
 ## open-source 
 
