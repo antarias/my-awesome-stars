@@ -20,12 +20,15 @@
 - [kubernetes](#kubernetes)
 - [linux](#linux)
 - [macos](#macos)
+- [monitoring](#monitoring)
 - [nextjs](#nextjs)
 - [open-source](#open-source)
 - [others](#others)
 - [python](#python)
 - [self-hosted](#self-hosted)
 - [server](#server)
+- [terminal](#terminal)
+- [web](#web)
 
 ## algorithm 
 
@@ -93,6 +96,10 @@
 
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 
+## monitoring 
+
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+
 ## nextjs 
 
 - [Brandawg93/PeaNUT](https://github.com/Brandawg93/PeaNUT) - A tiny dashboard for Network UPS Tools
@@ -103,6 +110,7 @@
 
 ## others 
 
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [chris2511/xca](https://github.com/chris2511/xca) - X Certificate and Key management
 - [savinderpuri/knowledgehut](https://github.com/savinderpuri/knowledgehut) - Repo for KnowledgeHut courses
 - [jmichault/gramps-kromprogramoj](https://github.com/jmichault/gramps-kromprogramoj) - kromprogramoj por gramps (addons for gramps)
@@ -120,6 +128,7 @@
 
 ## python 
 
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [Andre0512/hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 28 languages.
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -131,6 +140,14 @@
 ## server 
 
 - [OliTechFR/Discovarr](https://github.com/OliTechFR/Discovarr) - A list of all the *arr apps that are out there in the world, like Sonarr, Radarr, etc.
+
+## terminal 
+
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+
+## web 
+
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 
 
 ## License
