@@ -43,6 +43,7 @@
 
 ## Java 
 
+- [EasyG0ing1/Migration](https://github.com/EasyG0ing1/Migration) - Migration is a tool to assist with migrating your OPNsense DHCP static mappings over to the new Kea DHCP server that comes with version 24 of OPNsense.
 - [savinderpuri/knowledgehut](https://github.com/savinderpuri/knowledgehut) - Repo for KnowledgeHut courses
 - [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
 
