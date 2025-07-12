@@ -110,6 +110,7 @@
 
 ## others 
 
+- [thelastWallE/OctoprintKlipperPlugin](https://github.com/thelastWallE/OctoprintKlipperPlugin) - A plugin for a better integration of Klipper into OctoPrint.
 - [EasyG0ing1/Migration](https://github.com/EasyG0ing1/Migration) - Migration is a tool to assist with migrating your OPNsense DHCP static mappings over to the new Kea DHCP server that comes with version 24 of OPNsense.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [chris2511/xca](https://github.com/chris2511/xca) - X Certificate and Key management
