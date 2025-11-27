@@ -6,6 +6,7 @@
 ## Contents
 
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [chrome](#chrome)
@@ -31,6 +32,10 @@
 - [web](#web)
 
 ## algorithm 
+
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
+
+## algorithms 
 
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 
