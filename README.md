@@ -77,7 +77,7 @@
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [chomupashchuk/ariston-remotethermo-home-assistant-v2](https://github.com/chomupashchuk/ariston-remotethermo-home-assistant-v2) - Ariston NET remotethermo integration for Home Assistant based on API
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 
 ## Shell 
 
